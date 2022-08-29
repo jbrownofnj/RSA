@@ -123,7 +123,7 @@ function Explanation() {
         </li>
       </StyledOl>
       <StyledP>
-        The encriplition is applied by taking the message and raising it to the power e. Form there it is modulated by n.<br/>
+        The encriplition is applied by taking the message and raising it to the power e. From there it is modulated by n.<br/>
         Once this is done it cannot be decripted in any resonable time without d. To decript a message you need only raise<br/>
         the encripted number to the power d and modulate it by n. On the following page you can experiment with RSA encription<br/>
         by subbmitting a 4 letter or less word and saving it encryption. These submissions are only readable if you supply the<br/>

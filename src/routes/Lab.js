@@ -102,7 +102,7 @@ console.log(updateEntries)
       return numberBase10;
    } 
 
-    evt.preventDefault()
+    
     const n=bigInt(2469018203);
     const e=bigInt(65537);
     const numberinput=message===""?0:textToNumber(message)
